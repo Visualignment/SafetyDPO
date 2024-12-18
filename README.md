@@ -1,6 +1,5 @@
 # SafetyDPO
-[![Project](https://img.shields.io/badge/Project-Page-20B2AA.svg)]([https://latentguard.github.io/](https://safetydpo.github.io/))
-[![Dataset(coming soon)](https://img.shields.io/badge/Dataset-URL-green.svg)]()
+[![Project](https://img.shields.io/badge/Project-Page-20B2AA.svg)](https://safetydpo.github.io/)
 
 This is the official repository of *SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation* [(arXiv)](https://www.arxiv.org/abs/2412.10493).
 
