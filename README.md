@@ -17,7 +17,7 @@ The code and checkpoints will be released soon.
 
 # Motivation & Background
 <p align="center">
-<img width="663" alt="image" src="https://github.com/user-attachments/assets/61dcc739-958b-4e80-bf14-e33979dada79" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/61dcc739-958b-4e80-bf14-e33979dada79" />
 </p>
 
 **Safety alignment for T2I.** T2I models released without safety alignment risk to be misused (top). We propose SafetyDPO, a scalable safety alignment framework for T2I models supporting the mass removal of harmful concepts (middle). We allow for scalability by training safety experts focusing on separate categories such as “Hate”, “Sexual”, “Violence”, etc. We then merge the experts with a novel strategy. By doing so, we obtain safety-aligned models, mitigating unsafe content generation (bottom).
