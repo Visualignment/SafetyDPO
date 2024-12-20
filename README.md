@@ -53,7 +53,7 @@ For each unsafe concept in different categories, we generate corresponding promp
 </p>
 
 
-# Experiments
+# Experimental Results
 <p align="center">
 <img width="663" alt="image" src="https://github.com/user-attachments/assets/3fecb8e0-80ff-4967-8075-6d0bbc8fcab3" />
 </p>
