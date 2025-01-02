@@ -27,12 +27,12 @@ Qifeng Chen<sup>1</sup>, Philip Torr<sup>2</sup>, Ashkan Khakzar<sup>2</sup>, Fa
 
 **Safety alignment for T2I.** T2I models released without safety alignment risk to be misused (top). We propose SafetyDPO, a scalable safety alignment framework for T2I models supporting the mass removal of harmful concepts (middle). We allow for scalability by training safety experts focusing on separate categories such as “Hate”, “Sexual”, “Violence”, etc. We then merge the experts with a novel strategy. By doing so, we obtain safety-aligned models, mitigating unsafe content generation (bottom).
 
-    @article{liu2024safetydpo,
-      title={SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation},
-      author={Liu, Runtao and Chieh, Chen I and Gu, Jindong and Zhang, Jipeng and Pi, Renjie and Chen, Qifeng and Torr, Philip and Khakzar, Ashkan and Pizzati, Fabio},
-      journal={arXiv preprint arXiv:2412.10493},
-      year={2024}
-    }
+      @article{liu2024safetydpo,
+        title={SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation},
+        author={Liu, Runtao and Chieh, Chen I and Gu, Jindong and Zhang, Jipeng and Pi, Renjie and Chen, Qifeng and Torr, Philip and Khakzar, Ashkan and Pizzati, Fabio},
+        journal={arXiv preprint arXiv:2412.10493},
+        year={2024}
+      }
 
 ## 🚀Latest News
 - ```[2025/01]:``` 🔥🔥🔥The dataset [CoProV2](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz)(for SD1.5) has been released. 
