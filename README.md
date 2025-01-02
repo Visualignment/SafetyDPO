@@ -38,7 +38,7 @@ Qifeng Chen<sup>1</sup>, Philip Torr<sup>2</sup>, Ashkan Khakzar<sup>2</sup>, Fa
 - ```[2025/01]:``` 🔥🔥🔥The dataset [CoProV2](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz) has been released. 
 - ```[2024/12]:``` The [arXiv](https://www.arxiv.org/abs/2412.10493) has been released. 
 
-# Dataset
+## 💾Dataset
 Our dataset CoProV2 for Stable Diffusion v1.5 has been released at [here](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz).
 
 # Abstract
