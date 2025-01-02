@@ -2,12 +2,15 @@ This is the official repository of *SafetyDPO: Scalable Safety Alignment for Tex
 
 The code and checkpoints will be released soon. 
 
+🔥🔥🔥 The dataset CoProV2 for Stable Diffusion 1.5 has been released!
+
 <div align="center">
 
 <h1>SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation</h1>
 
 [![Arxiv](https://img.shields.io/badge/ArXiv-2412.10493-%23840707.svg)](https://www.arxiv.org/abs/2412.10493)
 [![Project](https://img.shields.io/badge/Project-Page-20B2AA.svg)](https://safetydpo.github.io/)
+[![Dataset](https://img.shields.io/badge/Dataset-URL-green.svg)](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz)
 
 Runtao Liu<sup>1*</sup>, I Chieh Chen<sup>1*</sup>, Jindong Gu<sup>2</sup>, Jipeng Zhang<sup>1</sup>, Renjie Pi<sup>1</sup>, 
 <br>
@@ -32,8 +35,11 @@ Qifeng Chen<sup>1</sup>, Philip Torr<sup>2</sup>, Ashkan Khakzar<sup>2</sup>, Fa
     }
 
 ## 🚀Latest News
+- ```[2025/01]:``` 🔥🔥🔥The dataset [CoProV2](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz) has been released. 
 - ```[2024/12]:``` The [arXiv](https://www.arxiv.org/abs/2412.10493) has been released. 
 
+# Dataset
+Our dataset CoProV2 for Stable Diffusion v1.5 has been released at [here](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz).
 
 # Abstract
 Text-to-image (T2I) models have become widespread, but their limited safety guardrails expose end users to harmful content and potentially allow for model misuse. Current safety measures are typically limited to text-based filtering or concept removal strategies, able to remove just a few concepts from the model's generative capabilities. In this work, we introduce SafetyDPO, a method for safety alignment of T2I models through Direct Preference Optimization (DPO). We enable the application of DPO for safety purposes in T2I models by synthetically generating a dataset of harmful and safe image-text pairs, which we call CoProV2. Using a custom DPO strategy and this dataset, we train safety experts, in the form of low-rank adaptation (LoRA) matrices, able to guide the generation process away from specific safety-related concepts. Then, we merge the experts into a single LoRA using a novel merging strategy for optimal scaling performance. This expert-based approach enables scalability, allowing us to remove 7 times more harmful concepts from T2I models compared to baselines. SafetyDPO consistently outperforms the state-of-the-art on many benchmarks and establishes new practices for safety alignment in T2I networks. 
