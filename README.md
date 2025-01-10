@@ -2,6 +2,8 @@ This is the official repository of *SafetyDPO: Scalable Safety Alignment for Tex
 
 The code and checkpoints will be released soon. 
 
+🔥🔥🔥 The checkpoint Safe-StableDiffusionV1.5 has been released in [HuggingFace](https://huggingface.co/Visualignment/safe-stable-diffusion-v1-5)! Welcome downloading! The testing and inference code are also released. 
+
 🔥🔥🔥 The dataset CoProV2 for Stable Diffusion 1.5 has been released!
 
 <div align="center">
@@ -10,6 +12,7 @@ The code and checkpoints will be released soon.
 
 [![Project](https://img.shields.io/badge/Project-SafetyDPO-20B2AA.svg)](https://safetydpo.github.io/)
 [![Arxiv](https://img.shields.io/badge/ArXiv-2412.10493-%23840707.svg)](https://www.arxiv.org/abs/2412.10493)
+[![Model(SD1.5)](https://img.shields.io/badge/Model_HuggingFace-SD15-blue.svg)](https://huggingface.co/Visualignment/safe-stable-diffusion-v1-5)
 [![Dataset](https://img.shields.io/badge/Dataset-CoProV2-green.svg)](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz)
 
 Runtao Liu<sup>1*</sup>, I Chieh Chen<sup>1*</sup>, Jindong Gu<sup>2</sup>, Jipeng Zhang<sup>1</sup>, Renjie Pi<sup>1</sup>, 
@@ -35,6 +38,7 @@ Qifeng Chen<sup>1</sup>, Philip Torr<sup>2</sup>, Ashkan Khakzar<sup>2</sup>, Fa
       }
 
 ## 🚀Latest News
+- ```[2025/01]:``` 🔥🔥🔥The checkpoint Safe-StableDiffusionV1.5 has been released in [HuggingFace](https://huggingface.co/Visualignment/safe-stable-diffusion-v1-5)! Welcome downloading! The testing and inference code are also released. 
 - ```[2025/01]:``` 🔥🔥🔥The dataset [CoProV2](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz)(for SD1.5) has been released. 
 - ```[2024/12]:``` The [arXiv](https://www.arxiv.org/abs/2412.10493) has been released. 
 
