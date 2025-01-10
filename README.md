@@ -17,9 +17,9 @@ The code and checkpoints will be released soon.
 
 Runtao Liu<sup>1*</sup>, I Chieh Chen<sup>1*</sup>, Jindong Gu<sup>2</sup>, Jipeng Zhang<sup>1</sup>, Renjie Pi<sup>1</sup>, 
 <br>
-Qifeng Chen<sup>1</sup>, Philip Torr<sup>2</sup>, Ashkan Khakzar<sup>2</sup>, Fabio Pizzati<sup>2</sup><br>
+Qifeng Chen<sup>1</sup>, Philip Torr<sup>2</sup>, Ashkan Khakzar<sup>2</sup>, Fabio Pizzati<sup>2,3</sup><br>
 
-<sup>1</sup>Hong Kong University of Science and Technology, <sup>2</sup>University of Oxford<br>
+<sup>1</sup>Hong Kong University of Science and Technology, <sup>2</sup>University of Oxford<br> <sup>3</sup>MBZUAI<br>
 \* Equal Contribution
 
 </div>
