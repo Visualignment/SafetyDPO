@@ -2,6 +2,8 @@ This is the official repository of *SafetyDPO: Scalable Safety Alignment for Tex
 
 The code and checkpoints will be released soon. 
 
+🔥🔥🔥 The checkpoint Safe-StableDiffusionV2.1 has been released in [HuggingFace](https://huggingface.co/Visualignment/safe-stable-diffusion-v2-1)! Welcome downloading!
+
 🔥🔥🔥 The checkpoint Safe-StableDiffusionXL has been released in [HuggingFace](https://huggingface.co/Visualignment/safe-SDXL)! Welcome downloading!
 
 🔥🔥🔥 The checkpoint Safe-StableDiffusionV1.5 has been released in [HuggingFace](https://huggingface.co/Visualignment/safe-stable-diffusion-v1-5)! Welcome downloading! The testing and inference code are also released. 
@@ -15,6 +17,7 @@ The code and checkpoints will be released soon.
 [![Project](https://img.shields.io/badge/Project-SafetyDPO-20B2AA.svg)](https://safetydpo.github.io/)
 [![Arxiv](https://img.shields.io/badge/ArXiv-2412.10493-%23840707.svg)](https://www.arxiv.org/abs/2412.10493)
 [![Model(SD1.5)](https://img.shields.io/badge/Model_HuggingFace-SD15-blue.svg)](https://huggingface.co/Visualignment/safe-stable-diffusion-v1-5)
+[![Model(SD2.1)](https://img.shields.io/badge/Model_HuggingFace-SDXL-blue.svg)](https://huggingface.co/Visualignment/safe-stable-diffusion-v2-1)
 [![Model(SDXL)](https://img.shields.io/badge/Model_HuggingFace-SDXL-blue.svg)](https://huggingface.co/Visualignment/safe-SDXL)
 [![Dataset](https://img.shields.io/badge/Dataset-CoProV2-green.svg)](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz)
 
@@ -41,6 +44,7 @@ Qifeng Chen<sup>1</sup>, Philip Torr<sup>2</sup>, Ashkan Khakzar<sup>2</sup>, Fa
       }
 
 ## 🚀Latest News
+- ```[2025/01]:``` 🔥🔥🔥The checkpoint Safe-StableDiffusionV2.1 has been released in [HuggingFace](https://huggingface.co/Visualignment/safe-stable-diffusion-v2-1)! Welcome downloading!
 - ```[2025/01]:``` 🔥🔥🔥The checkpoint safe-SDXL has been released in [HuggingFace](https://huggingface.co/Visualignment/safe-SDXL)! Welcome downloading!
 - ```[2025/01]:``` 🔥🔥🔥The checkpoint Safe-StableDiffusionV1.5 has been released in [HuggingFace](https://huggingface.co/Visualignment/safe-stable-diffusion-v1-5)! Welcome downloading! The testing and inference code are also released. 
 - ```[2025/01]:``` 🔥🔥🔥The dataset [CoProV2](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz)(for SD1.5) has been released. 
