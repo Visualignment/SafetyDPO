@@ -17,7 +17,7 @@ The code and checkpoints will be released soon.
 [![Project](https://img.shields.io/badge/Project-SafetyDPO-20B2AA.svg)](https://safetydpo.github.io/)
 [![Arxiv](https://img.shields.io/badge/ArXiv-2412.10493-%23840707.svg)](https://www.arxiv.org/abs/2412.10493)
 [![Model(SD1.5)](https://img.shields.io/badge/Model_HuggingFace-SD15-blue.svg)](https://huggingface.co/Visualignment/safe-stable-diffusion-v1-5)
-[![Model(SD2.1)](https://img.shields.io/badge/Model_HuggingFace-SDXL-blue.svg)](https://huggingface.co/Visualignment/safe-stable-diffusion-v2-1)
+[![Model(SD2.1)](https://img.shields.io/badge/Model_HuggingFace-SD21-blue.svg)](https://huggingface.co/Visualignment/safe-stable-diffusion-v2-1)
 [![Model(SDXL)](https://img.shields.io/badge/Model_HuggingFace-SDXL-blue.svg)](https://huggingface.co/Visualignment/safe-SDXL)
 [![Dataset](https://img.shields.io/badge/Dataset-CoProV2-green.svg)](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz)
 
