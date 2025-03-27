@@ -19,7 +19,6 @@ The code and checkpoints will be released soon.
 [![Model(SD1.5)](https://img.shields.io/badge/Model_HuggingFace-SD15-blue.svg)](https://huggingface.co/Visualignment/safe-stable-diffusion-v1-5)
 [![Model(SD2.1)](https://img.shields.io/badge/Model_HuggingFace-SD21-blue.svg)](https://huggingface.co/Visualignment/safe-stable-diffusion-v2-1)
 [![Model(SDXL)](https://img.shields.io/badge/Model_HuggingFace-SDXL-blue.svg)](https://huggingface.co/Visualignment/safe-SDXL)
-[![Dataset(SD1.5)](https://img.shields.io/badge/Dataset-CoProV2-green.svg)](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz)
 [![Dataset(SD1.5)](https://img.shields.io/badge/Dataset_HuggingFace-CoProv2_SD15-blue.svg)](https://huggingface.co/datasets/Visualignment/CoProv2-SD15)
 [![Dataset(SDXL)](https://img.shields.io/badge/Dataset_HuggingFace-CoProv2_SDXL-blue.svg)](https://huggingface.co/datasets/Visualignment/CoProv2-SDXL)
 
@@ -49,11 +48,11 @@ Qifeng Chen<sup>1</sup>, Philip Torr<sup>2</sup>, Ashkan Khakzar<sup>2</sup>, Fa
 - ```[2025/01]:``` 🔥🔥🔥The checkpoint Safe-StableDiffusionV2.1 has been released in [HuggingFace](https://huggingface.co/Visualignment/safe-stable-diffusion-v2-1)! Welcome downloading!
 - ```[2025/01]:``` 🔥🔥🔥The checkpoint safe-SDXL has been released in [HuggingFace](https://huggingface.co/Visualignment/safe-SDXL)! Welcome downloading!
 - ```[2025/01]:``` 🔥🔥🔥The checkpoint Safe-StableDiffusionV1.5 has been released in [HuggingFace](https://huggingface.co/Visualignment/safe-stable-diffusion-v1-5)! Welcome downloading! The testing and inference code are also released. 
-- ```[2025/01]:``` 🔥🔥🔥The dataset [CoProV2](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz)(for SD1.5) has been released. 
 - ```[2024/12]:``` The [arXiv](https://www.arxiv.org/abs/2412.10493) has been released. 
 
 ## 💾Dataset
-Our dataset CoProV2 for Stable Diffusion v1.5 has been released at [here](https://hkustconnect-my.sharepoint.com/:u:/g/personal/rliuay_connect_ust_hk/Ea45o2IzRLZMi26CnbNQyZ8BEMQnBAwGs0TBijBjUm1hqg?e=qTGdGz).
+Our dataset CoProV2 for Stable Diffusion v1.5 has been released at [here](https://huggingface.co/datasets/Visualignment/CoProv2-SD15)
+Our dataset CoProV2 for Stable Diffusion XL has been released at [here](https://huggingface.co/datasets/Visualignment/CoProv2-SDXL)
 
 Please download the dataset from the link and unzip it in the `datasets` folder. The category of each prompt is included in `data/CoProv2_train.csv`.
 
