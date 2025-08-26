@@ -16,7 +16,7 @@ The code and checkpoints will be released soon.
 
 <h1>SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation</h1>
 
-[![Project](https://img.shields.io/badge/Project-SafetyDPO-20B2AA.svg)](https://safetydpo.github.io/)
+[![Project](https://img.shields.io/badge/Project-SafetyDPO-20B2AA.svg)](https://alignguard.github.io/)
 [![Arxiv](https://img.shields.io/badge/ArXiv-2412.10493-%23840707.svg)](https://www.arxiv.org/abs/2412.10493)
 [![Model(SD1.5)](https://img.shields.io/badge/Model_HuggingFace-SD15-blue.svg)](https://huggingface.co/Visualignment/safe-stable-diffusion-v1-5)
 [![Model(SD2.1)](https://img.shields.io/badge/Model_HuggingFace-SD21-blue.svg)](https://huggingface.co/Visualignment/safe-stable-diffusion-v2-1)
